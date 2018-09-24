@@ -10,6 +10,4 @@ Some interesting points:
 3. I include a blank cover/back image as the printers requested the cover image separately for the (perfect bound) book. 
 
 
-I hope that this is remotely useful to someone else, somewhere, at some point in the future. 
-
-For the final printed conference booklet (trimmed) see [here](https://drive.google.com/open?id=17CvOkXlJPEd7m11lmyzkREY94zGWWNxa) -- and for the output of the above see [here](https://drive.google.com/open?id=1cAnO7FYZCC_YcaoTAbv5LKaB3WdVxsES)
+I hope that this is remotely useful to someone else, somewhere, at some point in the future...
